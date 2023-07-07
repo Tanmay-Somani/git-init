@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
   <a href="https://github.com/Tanmay-Somani">
-    <img src="https://github.com/Tanmay-Somani/git-init/blob/main/images/prfph.JPG" alt="Tanmay-Somani's Profile Picture">
+    <img src="https://github.com/Tanmay-Somani/git-init/blob/main/images/prfph.png" alt="Tanmay-Somani's Profile Picture">
   </a>
 </div>
 
