@@ -19,7 +19,7 @@ this is a way of me learning how to automate some tasks using workflow
 
 ## About
 
-Welcome to the **Project Name** repository! This project aims to automate the process of privatizing your own repository effortlessly. By setting up this automation, you can seamlessly switch your repository's visibility to private, eliminating any manual steps or hassle.
+Welcome to the repos! This project aims to automate the process of privatizing your own repository effortlessly. By setting up this automation, you can seamlessly switch your repository's visibility to private, eliminating any manual steps or hassle.
 
 ## Features
 
@@ -54,5 +54,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name](https://github.com/your-username)
+[Tanmay-Somani](https://github.com/Tanmay-Somani)
 </div>
