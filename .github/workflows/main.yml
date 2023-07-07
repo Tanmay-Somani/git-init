@@ -1,0 +1,25 @@
+name: Repository Privatization
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  privatize-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x  # Replace 'x' with the desired Python version
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Privatize Repository
+        run: python privatize_repo.py
