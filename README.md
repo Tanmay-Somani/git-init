@@ -2,7 +2,7 @@
 this is a way of me learning how to automate some tasks using workflow 
 
 
-# Project Name
+# Repository privatization automationm
 
 ## Table of Contents
 
