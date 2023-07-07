@@ -1,8 +1,8 @@
 # git-init
-this is a way of me learning how to automate some tasks using workflow 
+this is a way for me to learn how to automate some tasks using workflow 
 
 
-# Repository privatization automationm
+# Repository privatization automation
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ this is a way of me learning how to automate some tasks using workflow
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
@@ -43,9 +43,7 @@ Once the setup is complete, the automation will handle the privatization process
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please feel free to open an issue or submit a pull request. Let's collaborate to make this automation even better!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+.
 
 ## Disclaimer
 this is an incomplete project. requires debugging. 
