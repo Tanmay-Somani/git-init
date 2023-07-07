@@ -1,8 +1,6 @@
 # git-init
 this is a way of me learning how to automate some tasks using workflow 
-<div align="center">
-  <img src="your-repo-logo.png" alt="Repository Logo" width="200px">
-</div>
+
 
 # Project Name
 
@@ -50,6 +48,9 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Disclaimer
+this is an incomplete project. requires debugging. 
 
 ---
 
