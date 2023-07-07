@@ -23,3 +23,21 @@ jobs:
 
       - name: Privatize Repository
         run: python privatize_repo.py
+
+      - name: Debug Access Token
+        run: echo ${{ secrets.ACCESS_TOKEN }}
+
+
+      - name: Privatize Repository
+        run: |
+          # Use the appropriate Git commands or Git library in your preferred programming language to privatize the repository.
+          git config --global user.name "Tanmay-Somani"
+          git config --global user.email "tanmaysomani2003@gmail.com"
+          git init
+          git remote add origin https://github.com/Tanmay-Somani/git-init.git
+          git fetch
+          git checkout main
+          git update-ref -d refs/heads/main
+          git checkout --orphan main
+          git commit --allow-empty -m "Privatize repository"
+          git push --force origin main
