@@ -4,8 +4,6 @@ this is a way of me learning how to automate some tasks using workflow
 
 # Project Name
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Table of Contents
 
 - [About](#about)
