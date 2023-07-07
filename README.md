@@ -54,5 +54,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <div align="center">
-[Tanmay-Somani](https://github.com/Tanmay-Somani)
+![Tanmay-Somani](https://github.com/Tanmay-Somani)
 </div>
