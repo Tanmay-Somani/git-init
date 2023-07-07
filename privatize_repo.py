@@ -4,6 +4,7 @@ access_token = os.environ.get('ACCESS_TOKEN')
 
 subprocess.run(['git', 'config', '--global', 'user.name', 'Tanmay Somani'])
 subprocess.run(['git', 'config', '--global', 'user.email', 'tanmaysomani2003@gmail.com'])
+subprocess.run(['git', 'remote', 'add', 'origin', 'https://github.com/Tanmay-Somani/git-init.git'])
 
 if not os.path.exists('.git'):
     subprocess.run(['git', 'init'])
